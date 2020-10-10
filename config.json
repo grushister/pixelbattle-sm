@@ -1,6 +1,8 @@
 {
   "wssLinks": [
-    "wss://pixel-dev.w84.vkforms.ru/ws?vk_access_token_settings=&vk_app_id=7148888&vk_are_notifications_enabled=0&vk_group_id=197984737&vk_is_app_user=0&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=other&vk_ts=1602357758&vk_user_id=614984571&vk_viewer_group_role=none&sign=uCvyr5iuH9lVZE3xWSYwokRAyCdIbEF4nlR7xSYnDRw"
+    "wss://pixel-dev.w84.vkforms.ru/ws?vk_access_token_settings=&vk_app_id=7148888&vk_are_notifications_enabled=0&vk_group_id=197984737&vk_is_app_user=0&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=other&vk_ts=1602357758&vk_user_id=614984571&vk_viewer_group_role=none&sign=uCvyr5iuH9lVZE3xWSYwokRAyCdIbEF4nlR7xSYnDRw",
+    "wss://pixel-dev.w84.vkforms.ru/ws?vk_access_token_settings=friends&vk_app_id=7148888&vk_are_notifications_enabled=0&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=other&vk_ts=1602360839&vk_user_id=478319881&sign=kC66fAKydcU8cl1YjKVEYbiZTTSI38NLTYFgw8TSYZ4",
+    "wss://pixel-dev.w84.vkforms.ru/ws?vk_access_token_settings=&vk_app_id=7148888&vk_are_notifications_enabled=0&vk_is_app_user=0&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=other&vk_ts=1602360928&vk_user_id=583866765&sign=x3eUF7EfPSst-VK-A3bbrfJIMMfEkzTNSTv0xxaVzG0"
   ],
   "image": "https://cdn1.worldpng.ru/uploads/2020/10/10/c9ffb1a2bdf8e15532682cc07ff8acf1-full.png"
 }
